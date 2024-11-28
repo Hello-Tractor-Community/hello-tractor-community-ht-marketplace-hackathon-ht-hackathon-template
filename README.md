@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xoeTal9p)
 # **Hello Tractor E-commerce Hackathon 🚜**
 
 Welcome to the Hello Tractor E-commerce Hackathon! This repository is your central workspace for the challenge. Follow the structure below to organize and present your deliverables. Let’s innovate for Africa’s agricultural future!
@@ -36,43 +37,22 @@ Please organize and complete the following deliverables within this repository:
 - Upload your video to YouTube, Vimeo, or as an mp4 file.
 - **Link to Demo Video**: [Insert your video link here]
 
-### 3. **Live Application URL**
+### 3. **Live Application URLS**
 - Deploy your application to a platform like Vercel, Netlify, or AWS.
-- **Link to Live App**: [Insert live application URL here]
+- **Link to Live TractorShop App**: [TractorShop](https://shop-tractor.vercel.app/)
+- **Link to Live AdminDashboard App**: [AdminDashboard](https://tractoradmin.vercel.app/)
+- **Link to Live SellerDashboard App**: [SellerDashboard](https://seller-dashboard-nu.vercel.app/)
 
-### 4. **Technical Documentation**
-- Include setup instructions for running the project locally.
-- Provide any architecture diagrams or flowcharts explaining the design.
-- **Documentation**: Add details in a `docs/` folder or link to relevant markdown files.
+### 4. **Tractor USSD**
+Text WhatsApp: +14155238886
 
-### 5. **Project Report**
-Complete this section in a separate ReadMe file `report.md`:
-- **Project Name**: [Insert your project name]
-- **Team Members**: [List all members and their GitHub handles]
-- **Tech Stack**: [Mention all technologies used]
-- **Key Features**: [Briefly list the implemented features]
-- **Challenges**: [Summarize major challenges faced and how they were solved]
-- **Lessons Learned**: [Highlight key takeaways from the project]
+Use join unit-cause to join sandbox and test 
 
----
+### 5. **Pitch Deck Video**
+[![Pitch Deck](https://img.youtube.com/vi/NwOQOnoQrJg/0.jpg)](https://youtu.be/NwOQOnoQrJg)
 
-## **Submission Process 📥**
+### 6. **Slides**
+[Slides](https://app.pitch.com/app/presentation/64ab5de7-3ab0-4f61-8e4f-4e07bbae1883/d3b3138e-77a9-4974-980d-d7c6fd3cfc2b)
 
-1. Complete your project and ensure all deliverables are present in this repository.
-2. **Submission Deadline**: All submissions must be finalized by **Tuesday, Nov 26th, 11:59 EAT**.
-3. Submit your repository by ensuring all deliverables are present in this repository and locked by the deadline.
-
----
-
-## **Important Links 🔗**
-- [Hackathon Website](https://hackathon.hellotractor.com)
-- [Hello Tractor Main Site](https://hellotractor.com)
-
----
-
-## **Contact & Support 📞**
-For any questions, reach out via Discord. Mentors will host office hours to assist with challenges and technical support.
-
----
-
-**Good luck and happy hacking!** 🚀
+### 7. **AI Call Assistant Video**
+[![AI Call Assistant Video](https://img.youtube.com/vi/bE_nD5B61a8/0.jpg)](https://youtu.be/bE_nD5B61a8)

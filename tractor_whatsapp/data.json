@@ -1,0 +1,302 @@
+{
+  "tractors": [
+    {
+      "id": 1,
+      "name": "John Deere X350",
+      "description": "Compact tractor, perfect for small farms.",
+      "price": 10000,
+      "image": "https://example.com/images/john-deere-x350.jpg",
+      "condition": "Used"
+    },
+    {
+      "id": 2,
+      "name": "Kubota BX1880",
+      "description": "High-performance utility tractor.",
+      "price": 8500,
+      "image": "https://example.com/images/kubota-bx1880.jpg",
+      "condition": "New"
+    },
+    {
+      "id": 3,
+      "name": "Sonalika DI-35",
+      "description": "A reliable tractor for various farming needs.",
+      "price": 9000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/DI-35-removebg-preview.png",
+      "condition": "New"
+    },
+    {
+      "id": 4,
+      "name": "Massey Ferguson 5710",
+      "description": "Versatile tractor for all types of farms.",
+      "price": 12000,
+      "image": "https://s3-us-west-2.amazonaws.com/ht-mobileassets/ti_massey_ferguson_tractor_mf5710.png",
+      "condition": "New"
+    },
+    {
+      "id": 5,
+      "name": "Kubota Harvester",
+      "description": "Efficient harvester for large fields.",
+      "price": 15000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Yanmar.jpg",
+      "condition": "New"
+    },
+    {
+      "id": 6,
+      "name": "Case IH JX90",
+      "description": "Powerful tractor for heavy-duty tasks.",
+      "price": 13000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Case_IH_JX90.png",
+      "condition": "New"
+    },
+    {
+      "id": 7,
+      "name": "John Deere 6095B",
+      "description": "High-performance tractor for various applications.",
+      "price": 16000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/6095B-removebg-preview.png",
+      "condition": "New"
+    },
+    {
+      "id": 8,
+      "name": "Sonalika DI-75",
+      "description": "Robust tractor for diverse farming needs.",
+      "price": 11000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/DI-75-removebg-preview.png",
+      "condition": "New"
+    },
+    {
+      "id": 9,
+      "name": "John Deere 6XXXB OOS",
+      "description": "Reliable tractor for various farming tasks.",
+      "price": 14000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/JD_6XXXB_OOS.png",
+      "condition": "New"
+    },
+    {
+      "id": 10,
+      "name": "McCormick MB85",
+      "description": "Versatile tractor for all types of farms.",
+      "price": 12500,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/MB-removebg-preview.png",
+      "condition": "New"
+    },
+    {
+      "id": 11,
+      "name": "McCormick MB75",
+      "description": "Compact tractor for small farms.",
+      "price": 9500,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/MB75-removebg-preview.png",
+      "condition": "New"
+    },
+    {
+      "id": 12,
+      "name": "New Holland TS6.125",
+      "description": "High-performance tractor for various applications.",
+      "price": 13500,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/TS6-125.png",
+      "condition": "New"
+    },
+    {
+      "id": 13,
+      "name": "New Holland T6090",
+      "description": "Reliable tractor for diverse farming needs.",
+      "price": 14500,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/t6090-removebg-preview.png",
+      "condition": "New"
+    },
+    {
+      "id": 14,
+      "name": "Yanmar YM357A",
+      "description": "Efficient tractor for various farming tasks.",
+      "price": 11500,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/375A-removebg-preview.png",
+      "condition": "New"
+    },
+    {
+      "id": 15,
+      "name": "Yanmar EF494T",
+      "description": "Powerful tractor for heavy-duty tasks.",
+      "price": 12500,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/yanm-removebg-preview.png",
+      "condition": "New"
+    },
+    {
+      "id": 16,
+      "name": "JD 5095",
+      "description": "High-performance tractor for various applications.",
+      "price": 15500,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/JD_TRACTOR_IMAGE-removebg-preview.png",
+      "condition": "New"
+    },
+    {
+      "id": 17,
+      "name": "Massey Ferguson 240",
+      "description": "Versatile tractor for all types of farms.",
+      "price": 9000,
+      "image": "https://s3-us-west-2.amazonaws.com/ht-mobileassets/ti_massey_ferguson_240.png",
+      "condition": "New"
+    },
+    {
+      "id": 18,
+      "name": "Massey Ferguson 400 Xtra",
+      "description": "Reliable tractor for various farming needs.",
+      "price": 9500,
+      "image": "https://s3-us-west-2.amazonaws.com/ht-mobileassets/ti_massey_ferguson_400xtra.png",
+      "condition": "New"
+    },
+    {
+      "id": 19,
+      "name": "Valtra BL88",
+      "description": "Efficient tractor for large fields.",
+      "price": 11000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Valtra_BL88.png",
+      "condition": "New"
+    },
+    {
+      "id": 20,
+      "name": "NH (Combine) TC4/5",
+      "description": "Powerful combine for harvesting.",
+      "price": 20000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/NH_Combine_TC45.png",
+      "condition": "New"
+    },
+    {
+      "id": 21,
+      "name": "Mahindra 9200",
+      "description": "Robust tractor for diverse farming needs.",
+      "price": 13000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Mahindra_9200.png",
+      "condition": "New"
+    },
+    {
+      "id": 22,
+      "name": "Farmtrac 6060 Heritage",
+      "description": "Versatile tractor for all types of farms.",
+      "price": 12500,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Farmtrac_6060_Heritage.png",
+      "condition": "New"
+    },
+    {
+      "id": 23,
+      "name": "New Holland TT75",
+      "description": "High-performance tractor for various applications.",
+      "price": 13500,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/New_Holland_TT75.png",
+      "condition": "New"
+    },
+    {
+      "id": 24,
+      "name": "Kubota L3540",
+      "description": "Reliable tractor for diverse farming needs.",
+      "price": 14000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Kubota_L3540.png",
+      "condition": "New"
+    },
+    {
+      "id": 25,
+      "name": "Yanmar YT359",
+      "description": "Efficient tractor for various farming tasks.",
+      "price": 11500,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Yanmar_YT359.png",
+      "condition": "New"
+    },
+    {
+      "id": 26,
+      "name": "Mack Granite LR",
+      "description": "Powerful truck for heavy-duty tasks.",
+      "price": 18000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Mack_Granite_LR.png",
+      "condition": "New"
+    },
+    {
+      "id": 27,
+      "name": "Massey Ferguson 420",
+      "description": "Versatile tractor for all types of farms.",
+      "price": 9500,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Massey_Ferguson_420.png",
+      "condition": "New"
+    },
+    {
+      "id": 28,
+      "name": "Ford 3910",
+      "description": "Reliable tractor for various farming needs.",
+      "price": 9000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Ford_3910.png",
+      "condition": "New"
+    },
+    {
+      "id": 29,
+      "name": "Case IH JXT95",
+      "description": "High-performance tractor for various applications.",
+      "price": 13000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Case_IH_JXT95.png",
+      "condition": "New"
+    },
+    {
+      "id": 30,
+      "name": "Massey Ferguson MF188",
+      "description": "Versatile tractor for all types of farms.",
+      "price": 9000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Massey_Ferguson_MF188.png",
+      "condition": "New"
+    },
+    {
+      "id": 31,
+      "name": "Massey Ferguson MF290",
+      "description": "Reliable tractor for various farming needs.",
+      "price": 9500,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Massey_Ferguson_MF290.png",
+      "condition": "New"
+    },
+    {
+      "id": 32,
+      "name": "Zetor Proxima CL100",
+      "description": "Efficient tractor for various farming tasks.",
+      "price": 11500,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Zetor_Proxima_CL100.png",
+      "condition": "New"
+    },
+    {
+      "id": 33,
+      "name": "Same Laser 130",
+      "description": "Powerful tractor for heavy-duty tasks.",
+      "price": 12500,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Same_Laser_130.png",
+      "condition": "New"
+    },
+    {
+      "id": 34,
+      "name": "McCormick T110 Max",
+      "description": "High-performance tractor for various applications.",
+      "price": 13000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/McCormick_T110_Max.png",
+      "condition": "New"
+    },
+    {
+      "id": 35,
+      "name": "Massey Ferguson MF165",
+      "description": "Versatile tractor for all types of farms.",
+      "price": 9000,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/Massey_Ferguson_MF165.png",
+      "condition": "New"
+    },
+    {
+      "id": 36,
+      "name": "New Holland TD80D",
+      "description": "Reliable tractor for various farming needs.",
+      "price": 9500,
+      "image": "https://ht-mobileassets.s3.amazonaws.com/tractorModels/New_Holland_TD80D.png",
+      "condition": "New"
+    }
+  ],
+  "users": [
+    {
+      "phone": "whatsapp:+254708419386",
+      "currentNegotiation": {
+        "tractorId": 4,
+        "stage": "offer_collection"
+      },
+      "name": "caieb jephunhe"
+    }
+  ]
+}
